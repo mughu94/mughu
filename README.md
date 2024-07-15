@@ -1,21 +1,7 @@
-### Oh, Hi there 👋
+### Hello
 
 ![](https://komarev.com/ghpvc/?username=mughu94)
 
-<!--![](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif) -->
-<p>
-  <img alt="Laravel" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="50%" />
-</p>
-
-### About me:
-
-- 🔭 I’m currently working for the largest ed tech company in Indonesia, Ruangguru.
-- 🌱 I’m currently learning Nuxt and Tailwind
-- 👯 I’m looking to collaborate on any kind of web dev
-- 🤔 I’m looking for help with any kind of web dev
-- 💬 Talk to me about manga, anime, movies or books
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact:
 
 ### Things i code with:
 
