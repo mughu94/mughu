@@ -37,9 +37,3 @@
 [<img align="left" alt="mughu94 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mughu94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mughu94 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[website]: https://mughu94.dev
-[twitter]: https://twitter.com/mughu94
-[youtube]: https://youtube.com/mughu94
-[instagram]: https://instagram.com/mughu94m
-[linkedin]: https://www.linkedin.com/in/azhari-muhammad-m-7b2a8b113/
