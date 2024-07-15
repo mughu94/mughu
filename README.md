@@ -28,4 +28,7 @@
 
 ### My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mughu94&show_icons=true&title_color=000&icon_color=8ac926&text_color=000&bg_color=fff&hide=[%22stars%22])
+
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughu94&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
