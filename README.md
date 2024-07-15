@@ -29,11 +29,3 @@
 ### My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=mughu94&show_icons=true&title_color=000&icon_color=8ac926&text_color=000&bg_color=fff&hide=[%22stars%22])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mughu94&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-### Connect with me:
-
-[<img align="left" alt="mughu94.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mughu94 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mughu94 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mughu94 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mughu94 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
